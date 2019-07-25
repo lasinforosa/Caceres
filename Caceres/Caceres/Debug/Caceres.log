@@ -1,0 +1,11 @@
+﻿  Caceres.cpp
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(47,16): warning C4477:  'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(47,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(125,40): error C2228:  left of '.length' must have class/struct/union
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(125,40): message :  type is 'const int [8]'
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(139,24): error C2065:  'MAX_DESPL': undeclared identifier
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(160,24): error C2065:  'MAX_DESPL': undeclared identifier
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(167,24): error C2065:  'MOVS_ALFIL': undeclared identifier
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(170,32): error C2065:  'MOVS_ALFIL': undeclared identifier
+C:\Users\npare\source\repos\Caceres\Caceres\Caceres.cpp(181,24): error C2065:  'MAX_DESPL': undeclared identifier
